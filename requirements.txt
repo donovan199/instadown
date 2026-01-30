@@ -1,0 +1,5 @@
+flask
+instaloader
+flask-cors
+gunicorn
+requests
